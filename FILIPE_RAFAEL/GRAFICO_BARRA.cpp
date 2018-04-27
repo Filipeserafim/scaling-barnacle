@@ -1,3 +1,13 @@
+/*ESCOLA POLITÉCNICA PUCRS
+PROGRAMAÇÃO II
+Marco Mangan
+
+Uma aplicação interessante dos computadores são os desenhos de gráficos e gráficos de barras. Escreva um programa que lê cinco números
+(cada um entre 1 e 30). Suponha que o usuário insira apenas valores válidos. Para cada número lido, seu programa deve imprimir uma
+linha contendo esse número de asteriscos adjacentes. Por exemplo, se seu programa lê o número 7, ele deve imprimir ******* .
+
+DUPLA: FILIPE_RAFAEL*/
+
 #include <iostream>
 
 using namespace std;

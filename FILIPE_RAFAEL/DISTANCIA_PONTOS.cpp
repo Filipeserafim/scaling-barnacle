@@ -1,10 +1,12 @@
-/*Escreva uma função distance que calcula a distância entre dois pontos (x1, y1) e (x2, y2).
+/*/*ESCOLA POLITÉCNICA PUCRS
+PROGRAMAÇÃO II
+Marco Mang
+
+Escreva uma função distance que calcula a distância entre dois pontos (x1, y1) e (x2, y2).
 Todos os números e valores de retorno devem
 ser do tipo double
 
-Rafael Holtz	
-
-*/
+DUPLA: FILIPE_RAFAEL*/
 
 
 
@@ -15,7 +17,7 @@ using namespace std;
 
 int main() {
 
-	float x1, y1, x2, y2, gdistance;
+	double x1, y1, x2, y2, gdistance;
 
 	cout<<"Entre com x1: ";
 	cin>>x1;
